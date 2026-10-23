@@ -1,0 +1,34 @@
+# Lakeside Spine & Wellness
+
+> Chiropractic and wellness clinic in Round Rock, Texas (greater Austin) offering drug-free, non-surgical relief for back pain, neck pain, sciatica, herniated discs, migraines, posture problems and auto injuries. Same-week appointments, on-site digital X-ray, 15+ years of experience, gentle techniques, transparent pricing.
+
+- Location: 1200 Lakeside Pkwy, Suite 110, Round Rock, TX 78665
+- Phone: (555) 0142
+- Hours: Mon-Fri 9:00 AM-6:00 PM, Sat 9:00 AM-1:00 PM
+- Areas served: Round Rock, Pflugerville, Georgetown, Hutto, Cedar Park, North Austin
+- Lead provider: Dr. Elena Marsh, DC (15+ years)
+
+## Offer
+- $49 New Patient Special: consultation + exam + first adjustment (digital X-rays included when clinically needed). Book online: https://referrernation-web.github.io/lakeside-spine/#book
+- Free 10-minute phone consult: (555) 0142
+
+## Services
+- Chiropractic adjustments (gentle, low-force options)
+- Non-surgical spinal decompression for herniated or bulging discs and sciatica
+- Corrective care and posture correction
+- Migraine and headache relief
+- Auto-injury and whiplash care with documentation
+- On-site digital X-ray
+
+## Pricing (self-pay)
+- New Patient Special: $49
+- Follow-up adjustment: $65
+- Spinal decompression session: $95
+- Corrective care plan: from $55/visit
+- Accepts most major insurance, HSA and FSA
+
+## Pages
+- [Home: chiropractor in Round Rock, TX](https://referrernation-web.github.io/lakeside-spine/)
+- [FAQ: sciatica, migraines, herniated disc, cost, insurance](https://referrernation-web.github.io/lakeside-spine/#faq)
+
+Note: demonstration page for a fictional practice built for a hiring assessment; details are sample data.
